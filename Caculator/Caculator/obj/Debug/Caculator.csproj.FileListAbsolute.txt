@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\DELL\Desktop\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\DELL\Desktop\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.Form1.resources
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\DELL\Desktop\Caculator\Caculator\obj\Debug\Caculator.pdb
