@@ -1,0 +1,11 @@
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.csproj.AssemblyReference.cache
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.Form1.resources
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.Properties.Resources.resources
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.csproj.GenerateResource.cache
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.csproj.CoreCompileInputs.cache
+C:\Users\COM\source\repos\Run_button\Run_button\bin\Debug\Run_button.exe.config
+C:\Users\COM\source\repos\Run_button\Run_button\bin\Debug\Run_button.exe
+C:\Users\COM\source\repos\Run_button\Run_button\bin\Debug\Run_button.pdb
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.exe
+C:\Users\COM\source\repos\Run_button\Run_button\obj\Debug\Run_button.pdb
