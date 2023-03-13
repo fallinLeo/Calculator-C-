@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\bin\Debug\PC_3WEEK.exe.config
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\bin\Debug\PC_3WEEK.exe
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\bin\Debug\PC_3WEEK.pdb
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.Form1.resources
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.Properties.Resources.resources
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.exe
+C:\Users\DELL\Desktop\PC_3WEEK\PC_3WEEK\obj\Debug\PC_3WEEK.pdb
