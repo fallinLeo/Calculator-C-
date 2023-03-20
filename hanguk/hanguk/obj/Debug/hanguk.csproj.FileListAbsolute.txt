@@ -1,0 +1,11 @@
+C:\Users\COM\source\repos\hanguk\hanguk\bin\Debug\hanguk.exe.config
+C:\Users\COM\source\repos\hanguk\hanguk\bin\Debug\hanguk.exe
+C:\Users\COM\source\repos\hanguk\hanguk\bin\Debug\hanguk.pdb
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.csproj.AssemblyReference.cache
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.Form1.resources
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.Properties.Resources.resources
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.csproj.GenerateResource.cache
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.csproj.CoreCompileInputs.cache
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.exe
+C:\Users\COM\source\repos\hanguk\hanguk\obj\Debug\hanguk.pdb
