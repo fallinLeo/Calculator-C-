@@ -9,3 +9,14 @@ C:\Users\COM\source\repos\monte\monte\bin\Debug\monte.exe
 C:\Users\COM\source\repos\monte\monte\bin\Debug\monte.pdb
 C:\Users\COM\source\repos\monte\monte\obj\Debug\monte.exe
 C:\Users\COM\source\repos\monte\monte\obj\Debug\monte.pdb
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\bin\Debug\monte.exe.config
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\bin\Debug\monte.exe
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\bin\Debug\monte.pdb
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.Form1.resources
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.exe
+C:\Users\DELL\Documents\GitHub\Calculator-C-\monte\monte\obj\Debug\monte.pdb

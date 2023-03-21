@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\bin\Debug\PC_5TH_WEEK.exe.config
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\bin\Debug\PC_5TH_WEEK.exe
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\bin\Debug\PC_5TH_WEEK.pdb
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.Form1.resources
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.Properties.Resources.resources
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.exe
+C:\Users\DELL\Desktop\PC_5TH_WEEK\PC_5TH_WEEK\obj\Debug\PC_5TH_WEEK.pdb
