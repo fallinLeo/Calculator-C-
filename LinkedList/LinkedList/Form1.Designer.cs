@@ -32,14 +32,13 @@
             this.btnprint = new System.Windows.Forms.Button();
             this.btnPrepand = new System.Windows.Forms.Button();
             this.btnappend = new System.Windows.Forms.Button();
-            this.btndelete = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnmake
             // 
             this.btnmake.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnmake.ForeColor = System.Drawing.Color.Chartreuse;
-            this.btnmake.Location = new System.Drawing.Point(671, 12);
+            this.btnmake.Location = new System.Drawing.Point(516, 12);
             this.btnmake.Name = "btnmake";
             this.btnmake.Size = new System.Drawing.Size(117, 86);
             this.btnmake.TabIndex = 0;
@@ -51,7 +50,7 @@
             // 
             this.btnprint.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnprint.ForeColor = System.Drawing.Color.Chartreuse;
-            this.btnprint.Location = new System.Drawing.Point(671, 238);
+            this.btnprint.Location = new System.Drawing.Point(671, 12);
             this.btnprint.Name = "btnprint";
             this.btnprint.Size = new System.Drawing.Size(117, 86);
             this.btnprint.TabIndex = 1;
@@ -63,7 +62,7 @@
             // 
             this.btnPrepand.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnPrepand.ForeColor = System.Drawing.Color.Chartreuse;
-            this.btnPrepand.Location = new System.Drawing.Point(671, 125);
+            this.btnPrepand.Location = new System.Drawing.Point(516, 128);
             this.btnPrepand.Name = "btnPrepand";
             this.btnPrepand.Size = new System.Drawing.Size(117, 86);
             this.btnPrepand.TabIndex = 2;
@@ -75,7 +74,7 @@
             // 
             this.btnappend.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnappend.ForeColor = System.Drawing.Color.Chartreuse;
-            this.btnappend.Location = new System.Drawing.Point(516, 125);
+            this.btnappend.Location = new System.Drawing.Point(516, 250);
             this.btnappend.Name = "btnappend";
             this.btnappend.Size = new System.Drawing.Size(117, 86);
             this.btnappend.TabIndex = 3;
@@ -83,23 +82,11 @@
             this.btnappend.UseVisualStyleBackColor = true;
             this.btnappend.Click += new System.EventHandler(this.btnappend_Click);
             // 
-            // btndelete
-            // 
-            this.btndelete.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btndelete.ForeColor = System.Drawing.Color.Chartreuse;
-            this.btndelete.Location = new System.Drawing.Point(516, 238);
-            this.btndelete.Name = "btndelete";
-            this.btndelete.Size = new System.Drawing.Size(117, 86);
-            this.btndelete.TabIndex = 4;
-            this.btndelete.Text = "delete";
-            this.btndelete.UseVisualStyleBackColor = true;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btndelete);
             this.Controls.Add(this.btnappend);
             this.Controls.Add(this.btnPrepand);
             this.Controls.Add(this.btnprint);
@@ -116,7 +103,6 @@
         private System.Windows.Forms.Button btnprint;
         private System.Windows.Forms.Button btnPrepand;
         private System.Windows.Forms.Button btnappend;
-        private System.Windows.Forms.Button btndelete;
     }
 }
 

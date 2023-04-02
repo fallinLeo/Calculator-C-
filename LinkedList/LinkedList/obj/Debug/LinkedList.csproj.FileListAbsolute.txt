@@ -9,3 +9,14 @@ C:\Users\COM\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.Gene
 C:\Users\COM\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
 C:\Users\COM\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.exe
 C:\Users\COM\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.Form1.resources
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\DELL\Documents\GitHub\Calculator-C-\LinkedList\LinkedList\bin\Debug\LinkedList.pdb

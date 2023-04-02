@@ -43,6 +43,21 @@ namespace LinkedList
             node.next = this;
             this.next = null;
         }
+        public void insertAfter(Node node)
+        {
+            
+            Node noodle = node;
+            if (noodle.next == null)
+            {
+                node.next = this;
+                noodle.next = null;
+            }
+            this.next = node.next;
+            node.next = this;
+            
+            
+
+        }
 
     }
 

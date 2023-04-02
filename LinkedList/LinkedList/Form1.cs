@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml.Linq;
 
 namespace LinkedList
 {
@@ -39,13 +40,9 @@ namespace LinkedList
             Node node4 = new Node(40);
             node3.next = node4;
 
-            //delete
-            //node2.delete(list);
-
-            //HOMEWORK
             Node node1 = new Node(25);
-            node1.insertAfter(node2); //출력이 10>20>25>30>40 되게 하는 코드 작성
-
+            node1.insertAfter(node2);
+           
         }
 
         private void btnprint_Click(object sender, EventArgs e)
@@ -64,6 +61,14 @@ namespace LinkedList
         {
             Node node = new Node(100);
             node.append(list);
+        }
+
+        private void Insert_Click(object sender, EventArgs e)
+        {
+            //HOMEWORK
+            Node node1 = new Node(25);
+            //node1.insertAfter(node2,list); //출력이 10>20>25>30>40 되게 하는 코드 작성
+
         }
     }
 }
