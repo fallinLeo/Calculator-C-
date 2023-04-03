@@ -1,0 +1,11 @@
+C:\Users\COM\Desktop\DrawPic\DrawPic\bin\Debug\DrawPic.exe.config
+C:\Users\COM\Desktop\DrawPic\DrawPic\bin\Debug\DrawPic.exe
+C:\Users\COM\Desktop\DrawPic\DrawPic\bin\Debug\DrawPic.pdb
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.csproj.AssemblyReference.cache
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.Form1.resources
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.Properties.Resources.resources
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.csproj.GenerateResource.cache
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.csproj.CoreCompileInputs.cache
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.exe
+C:\Users\COM\Desktop\DrawPic\DrawPic\obj\Debug\DrawPic.pdb
