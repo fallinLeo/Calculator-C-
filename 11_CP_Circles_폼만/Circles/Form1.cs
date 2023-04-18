@@ -36,7 +36,6 @@ namespace Circles
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            if (chkMove.Checked == false) return;
             if (chkMove.Checked == true)
             {
                 for (int i = 0; i < circles.Count; i++)
@@ -46,15 +45,13 @@ namespace Circles
             }
             if (chkinner.Checked == true)
             {
-                List<Circle> cdel = new List<Circle>();
-                for (int i = 0; i < circles.Count; i++)
+                for (int i = 0; i < circles.Count-1; i++)
                 {
 
-                    cdel[i].innercheck(cdel[i]);
-                    if (cdel[i].rev == true)
-                    {
-                        circles.Remove(cdel[i]);
-                    }
+                    circles[i].innercheck(circles[i+1]);
+                    if (circles[i].rev == true) circles.Remove(circles[i]);
+                    else if (circles[i+1].rev == true) circles.Remove(circles[i+1]);
+
                 }
             }
             DrawCircles();

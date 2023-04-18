@@ -55,15 +55,22 @@ namespace Circles
         //내부 원 지우기
         public void innercheck(Circle c2)
         {
-            if (this.xcen + this.radius >= c2.xcen + c2.radius && this.xcen - this.radius <= c2.xcen - c2.radius)
+            double dist = Math.Sqrt(Math.Pow(this.xcen - c2.xcen, 2) + Math.Pow(this.ycen - c2.ycen, 2));
+            if(dist<=this.radius||dist<=c2.radius)
             {
-                if (this.ycen + this.radius >= c2.ycen + c2.radius && this.ycen - this.radius <= c2.ycen - c2.radius) c2.rev = true;
-
+                if (this.radius >= dist + c2.radius)
+                {
+                    c2.rev = true;
+                }
+                else if (c2.radius >= dist + this.radius)
+                {
+                    this.rev = true;
+                }
             }
-            else if (this.xcen + this.radius <= c2.xcen + c2.radius && this.xcen - this.radius >= c2.xcen - c2.radius)
+            else
             {
-                if (this.ycen + this.radius <= c2.ycen + c2.radius && this.ycen - this.radius >= c2.ycen - c2.radius) this.rev = true;
-
+                this.rev = false;
+                c2.rev = false;
             }
         }
     }
