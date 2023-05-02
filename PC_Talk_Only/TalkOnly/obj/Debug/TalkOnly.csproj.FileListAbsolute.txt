@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\bin\Debug\TalkOnly.exe.config
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\bin\Debug\TalkOnly.exe
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\bin\Debug\TalkOnly.pdb
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.Form1.resources
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.Properties.Resources.resources
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.exe
+C:\Users\DELL\Desktop\PC_Talk_Only\TalkOnly\obj\Debug\TalkOnly.pdb
