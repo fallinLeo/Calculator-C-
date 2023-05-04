@@ -69,7 +69,7 @@ namespace TalkOnly
                 // 화면에 표시
                 lblRcv.Text = "수신 : " + stwork;
 
-                // ETX 찾기. 앞쪽만 취하기
+                // ETX 찾기. 앞쪽만 취하기 ETX를 찾아야 앞의 덩어리를 떼어낼 수 있다.
                 ipos = stwork.IndexOf(SPort.sETX());
                 if (ipos < 0) break;   // ETX 없으면 데이터 오류. 탈출
                 stwork = stwork.Substring(0, ipos);
