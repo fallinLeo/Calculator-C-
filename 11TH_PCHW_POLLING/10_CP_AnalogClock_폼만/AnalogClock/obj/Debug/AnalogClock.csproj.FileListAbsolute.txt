@@ -1,0 +1,11 @@
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\bin\Debug\AnalogClock.exe.config
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\bin\Debug\AnalogClock.exe
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.csproj.AssemblyReference.cache
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.exe
+C:\Users\COM\Downloads\10_CP_AnalogClock_폼만\AnalogClock\obj\Debug\AnalogClock.pdb
