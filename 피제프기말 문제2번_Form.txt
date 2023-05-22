@@ -1,0 +1,91 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace P2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void picOrg_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRot_Click(object sender, EventArgs e)
+        {
+            Bitmap bmapOrg = (Bitmap)picOrg.Image;
+            Bitmap bmapRot = new Bitmap(picRot.ClientSize.Width, picRot.ClientSize.Height);
+            double delta = Convert.ToDouble(txtDeg.Text) * 3.141592 / 180.0;
+
+            for (int i = 0; i < bmapOrg.Width; i++)
+            {
+                for (int j = 0; j < bmapOrg.Height; j++)
+                {
+                    int red = bmapOrg.GetPixel(i, j).R;
+                    int green = bmapOrg.GetPixel(i, j).G;
+                    int blue = bmapOrg.GetPixel(i, j).B;
+
+                    //픽셀 위치조작, 셀 조작
+                    double x1 = i - bmapOrg.Width / 2.0;
+                    double y1 = j - bmapOrg.Height / 2.0;
+
+                    double x2 = x1 * Math.Cos(delta) - y1 * Math.Sin(delta);
+                    double y2 = x1 * Math.Sin(delta) + y1 * Math.Cos(delta);
+
+                    double x3 = x2 + bmapOrg.Width / 2.0;
+                    double y3 = y2 + bmapOrg.Height / 2.0;
+
+                    //double ix = i, iy = j;
+                    //ix -= bmapOrg.Width / 2; iy -= bmapOrg.Height / 2;
+                    //ix = ix * Math.Cos(delta) - iy * Math.Sin(delta);
+                    //iy = (i - 50) * Math.Sin(delta) + iy * Math.Cos(delta);
+                    //ix += 50; iy += 50;
+
+                    //Console.WriteLine(ix + "변환된 x좌표");
+                    //Console.WriteLine(iy + "변환된 y좌표");
+
+                    int inew = (int)Math.Round(x3);
+                    int jnew = (int)Math.Round(y3);
+                    if (inew < 0) continue;
+                    if (inew > bmapOrg.Width - 1) continue;
+                    if (jnew < 0) continue;
+                    if (jnew > bmapOrg.Height - 1) continue;
+
+                    bmapRot.SetPixel(inew, jnew, Color.FromArgb(red, green, blue));
+                }
+            }
+            picRot.Image = bmapRot;
+        }
+
+        private void chkInverse_CheckedChanged(object sender, EventArgs e)
+        {
+            Bitmap bmapOrg = (Bitmap)picOrg.Image;
+            Bitmap bmapRot = new Bitmap(picRot.ClientSize.Width, picRot.ClientSize.Height);
+            for (int i = 0; i < bmapOrg.Width; i++)
+            {
+                for (int j = 0; j < bmapOrg.Height; j++)
+                {
+                    int red = bmapOrg.GetPixel(i, j).R;
+                    int green = bmapOrg.GetPixel(i, j).G;
+                    int blue = bmapOrg.GetPixel(i, j).B;
+                    // ... 픽셀의 위치조작, 색조작 ...
+
+                    bmapRot.SetPixel(i, j, Color.FromArgb(255 - red, 255 - green, 255 - blue));
+                }
+            }
+            picRot.Image = bmapRot;
+        }
+    }
+}
